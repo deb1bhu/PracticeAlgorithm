@@ -1,0 +1,8 @@
+*.class
+*.pdb
+*.exe
+*.dll
+*.html
+*.obj
+*.suo
+*.Temp
