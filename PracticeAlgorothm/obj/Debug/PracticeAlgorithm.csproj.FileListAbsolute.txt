@@ -1,0 +1,9 @@
+C:\Users\h137135\Documents\Visual Studio 2017\Projects\PracticeAlgorothm\PracticeAlgorothm\bin\Debug\PracticeAlgorothm.dll
+C:\Users\h137135\Documents\Visual Studio 2017\Projects\PracticeAlgorothm\PracticeAlgorothm\bin\Debug\PracticeAlgorothm.pdb
+C:\Users\h137135\Documents\Visual Studio 2017\Projects\PracticeAlgorothm\PracticeAlgorothm\obj\Debug\PracticeAlgorothm.dll
+C:\Users\h137135\Documents\Visual Studio 2017\Projects\PracticeAlgorothm\PracticeAlgorothm\obj\Debug\PracticeAlgorothm.pdb
+C:\Users\h137135\Documents\Visual Studio 2017\Projects\PracticeAlgorothm\PracticeAlgorothm\obj\Debug\PracticeAlgorithm.csprojResolveAssemblyReference.cache
+C:\01_Code_Base\GitHub\PracticeAlgorithm\PracticeAlgorothm\bin\Debug\PracticeAlgorothm.dll
+C:\01_Code_Base\GitHub\PracticeAlgorithm\PracticeAlgorothm\bin\Debug\PracticeAlgorothm.pdb
+C:\01_Code_Base\GitHub\PracticeAlgorithm\PracticeAlgorothm\obj\Debug\PracticeAlgorothm.dll
+C:\01_Code_Base\GitHub\PracticeAlgorithm\PracticeAlgorothm\obj\Debug\PracticeAlgorothm.pdb

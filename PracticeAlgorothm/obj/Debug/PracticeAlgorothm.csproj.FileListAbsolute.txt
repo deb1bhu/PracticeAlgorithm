@@ -1,0 +1,5 @@
+c:\users\h137135\documents\visual studio 2017\Projects\PracticeAlgorothm\PracticeAlgorothm\bin\Debug\PracticeAlgorothm.dll
+c:\users\h137135\documents\visual studio 2017\Projects\PracticeAlgorothm\PracticeAlgorothm\bin\Debug\PracticeAlgorothm.pdb
+c:\users\h137135\documents\visual studio 2017\Projects\PracticeAlgorothm\PracticeAlgorothm\obj\Debug\PracticeAlgorothm.csprojResolveAssemblyReference.cache
+c:\users\h137135\documents\visual studio 2017\Projects\PracticeAlgorothm\PracticeAlgorothm\obj\Debug\PracticeAlgorothm.dll
+c:\users\h137135\documents\visual studio 2017\Projects\PracticeAlgorothm\PracticeAlgorothm\obj\Debug\PracticeAlgorothm.pdb

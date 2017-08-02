@@ -1,0 +1,16 @@
+c:\users\h137135\documents\visual studio 2017\Projects\PracticeAlgorothm\StartApp\obj\Debug\StartApp.csprojResolveAssemblyReference.cache
+c:\users\h137135\documents\visual studio 2017\Projects\PracticeAlgorothm\StartApp\bin\Debug\StartApp.exe.config
+c:\users\h137135\documents\visual studio 2017\Projects\PracticeAlgorothm\StartApp\bin\Debug\StartApp.exe
+c:\users\h137135\documents\visual studio 2017\Projects\PracticeAlgorothm\StartApp\bin\Debug\StartApp.pdb
+c:\users\h137135\documents\visual studio 2017\Projects\PracticeAlgorothm\StartApp\obj\Debug\StartApp.exe
+c:\users\h137135\documents\visual studio 2017\Projects\PracticeAlgorothm\StartApp\obj\Debug\StartApp.pdb
+C:\Users\h137135\Documents\Visual Studio 2017\Projects\PracticeAlgorothm\StartApp\bin\Debug\PracticeAlgorothm.dll
+C:\Users\h137135\Documents\Visual Studio 2017\Projects\PracticeAlgorothm\StartApp\bin\Debug\PracticeAlgorothm.pdb
+C:\01_Code_Base\GitHub\PracticeAlgorithm\StartApp\bin\Debug\StartApp.exe.config
+C:\01_Code_Base\GitHub\PracticeAlgorithm\StartApp\bin\Debug\StartApp.exe
+C:\01_Code_Base\GitHub\PracticeAlgorithm\StartApp\bin\Debug\StartApp.pdb
+C:\01_Code_Base\GitHub\PracticeAlgorithm\StartApp\bin\Debug\PracticeAlgorothm.dll
+C:\01_Code_Base\GitHub\PracticeAlgorithm\StartApp\bin\Debug\PracticeAlgorothm.pdb
+C:\01_Code_Base\GitHub\PracticeAlgorithm\StartApp\obj\Debug\StartApp.csprojResolveAssemblyReference.cache
+C:\01_Code_Base\GitHub\PracticeAlgorithm\StartApp\obj\Debug\StartApp.exe
+C:\01_Code_Base\GitHub\PracticeAlgorithm\StartApp\obj\Debug\StartApp.pdb
